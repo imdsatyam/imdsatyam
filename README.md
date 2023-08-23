@@ -1,9 +1,9 @@
 ### Hi there 👋
 # I'm Kumar Satyam!
-I'm a full stack developer. I am a passionate individual with a deep love for technology and a drive for continuous learning and growth. Here's a glimpse into my background, skills, and interests.
+I'm a front end developer. I am a passionate individual with a deep love for technology and a drive for continuous learning and growth. Here's a glimpse into my background, skills, and interests.
 
 # 💫 About Me:
-🔭 I’m currently working on ReUnion<br>🌱 I’m currently learning  Bootstrap and Tailwind<br>❓ Ask me about anything related to React and related technologies
+🔭 I’m currently working on ReUnion<br>🌱 I’m currently learning  Node.js and MongoDB<br>❓ Ask me about anything related to React and related technologies<br> 🌩️ Front-end developers make websites visually appealing and interactive, using HTML, CSS, and JavaScript – they're the web's artists and magicians!
 
 
 ## 🌐 Socials:
