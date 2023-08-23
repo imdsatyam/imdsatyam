@@ -1,5 +1,5 @@
 ### Hi there 👋
-# 🧑 I'm Kumar Satyam!
+# I'm Kumar Satyam!
 I'm a front end developer. I am a passionate individual with a deep love for technology and a drive for continuous learning and growth. Here's a glimpse into my background, skills, and interests.
 
 # 💫 About Me:
