@@ -6,6 +6,15 @@ I am a passionate frontend developer with over 1+ years of hands-on experience i
 
 ---
 
+## 💫 Who Am I?  
+
+- 🎯 **Mission**: Craft intuitive interfaces that empower users and bring joy to their digital journeys.  
+- 🎨 **Design Philosophy**: Functionality is key, but design is what steals the show.  
+- 📍 **Based In**: India 🌏  
+- 🌟 **Superpower**: Solving complex problems and finding creative solutions—one React component at a time!  
+
+---
+
 ## 💫 About Me
 
 - 🔭 **Currently working on**: CRM-Portal project  
@@ -23,32 +32,41 @@ I am a passionate frontend developer with over 1+ years of hands-on experience i
 
 ---
 
-## 💻 Tech Stack
+## 💻 Tech Stack  
 
 ### **Languages**  
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
+- **Proficient in**: HTML5, CSS3, JavaScript  
+- **Learning**: TypeScript, Python  
+
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)  
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)  
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)  
 
 ---
 
 ### **Libraries & Frameworks**  
+- 🛠 **React.js**: My daily driver for crafting dynamic web apps.  
+- 🌐 **Next.js**: Turbocharged React with server-side rendering and SEO magic.  
+- 🎨 **CSS Libraries**: Bootstrap, TailwindCSS for sleek UI designs.  
+
 ![React](https://img.shields.io/badge/react-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=%23000000)  
 ![Next.js](https://img.shields.io/badge/next.js-%23000000.svg?style=for-the-badge&logo=next.js&logoColor=white)  
-![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)  
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)  
 
 ---
 
 ### **Tools**  
+- 🧰 **Dev Tools**: Git, Jira, Figma for seamless workflow and collaboration.  
+- 🚀 **Hosting Platforms**: Netlify, Render for rapid deployment.  
+
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)  
 ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)  
-![Render](https://img.shields.io/badge/render-%232B2D42.svg?style=for-the-badge&logo=render&logoColor=white)  
-![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)  
 
 ---
 
 ### **Database**  
+- 💾 **MongoDB**: Flexible and scalable for all my backend needs.  
+
 ![MongoDB](https://img.shields.io/badge/mongodb-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)  
 
 ---
@@ -58,6 +76,14 @@ I am a passionate frontend developer with over 1+ years of hands-on experience i
 - **Portfolio**: Showcasing my skills, projects, and achievements.  
 - **ReUnion**: Website emphasizing community engagement.  
 - **Confederation of Global Innovators**: Web app focusing on collaboration and innovation.  
+
+---
+
+## 🌟 Fun Facts About Me  
+
+- 🕹 **Hobby**: Gaming enthusiast (ask me about my latest win in Call of Duty!).  
+- 🎶 **Music Lover**: Coding sessions powered by Lo-fi beats and epic soundtracks.  
+- 🍕 **Foodie**: Pizza connoisseur—pineapple on pizza? Let’s debate!  
 
 ---
 
