@@ -25,10 +25,10 @@ I am a passionate frontend developer with over 1+ years of hands-on experience i
 ---
 
 ## 🌐 Let's Connect  
-![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)  
-![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)  
-![Email](https://img.shields.io/badge/Email-%23D14836.svg?logo=gmail&logoColor=white)  
-![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?logo=portfolio&logoColor=white)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/imdsatyam)  
+[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)](https://github.com/imdsatyam)  
+[![Email](https://img.shields.io/badge/Email-%23D14836.svg?logo=gmail&logoColor=white)](mailto:imdsatyam@gmail.com)  
+[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?logo=portfolio&logoColor=white)](#)  
 
 ---
 
@@ -100,4 +100,4 @@ I am a passionate frontend developer with over 1+ years of hands-on experience i
 I'm constantly exploring new technologies and challenges to further enhance my skills and contribute meaningfully to impactful projects. Let’s collaborate and build something amazing together!  
 
 ---
-🔗 ![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?logo=portfolio&logoColor=white) | ![Email](https://img.shields.io/badge/Email-%23D14836.svg?logo=gmail&logoColor=white) | ![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)
+[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?logo=portfolio&logoColor=white)](#) | [![Email](https://img.shields.io/badge/Email-%23D14836.svg?logo=gmail&logoColor=white)](mailto:imdsatyam@gmail.com) | [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/imdsatyam)
