@@ -1,13 +1,105 @@
-### Hi there 👋
-# I'm Kumar Satyam!
-I'm a front end developer. I am a passionate individual with a deep love for technology and a drive for continuous learning and growth. Here's a glimpse into my background, skills, and interests.
+# 👋 Hi there! I'm Kumar Satyam
 
-# 💫 About Me:
-🔭 I’m currently working on ReUnion<br>🌱 I’m currently learning  Node.js and MongoDB<br>❓ Ask me about anything related to React and related technologies<br> 🌩️ Front-end developers make websites visually appealing and interactive, using HTML, CSS, and JavaScript – they're the web's artists and magicians!
+### 🚀 Frontend Developer | React.js Enthusiast
 
+I am a passionate frontend developer with over 1+ years of hands-on experience in building engaging, user-friendly, and dynamic web applications. I thrive on creating visually appealing and interactive UIs using modern web technologies. My goal is to bridge the gap between design and technology, delivering seamless user experiences.
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/imdsatyam) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/imdsatyam) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/imdsatyam) 
+---
 
-# 💻 Tech Stack:
- ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![React](https://img.shields.io/badge/react-%23E34F26.svg?style=for-the-badge&logo=react&logoColor=white) ![Git](https://img.shields.io/badge/git-3670A0?style=for-the-badge&logo=git&logoColor=ffdd54) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+## 💫 About Me
+
+- 🔭 **Currently working on**: ReUnion project
+- 🌱 **Learning**: Node.js & MongoDB to expand my backend skills
+- 💡 **Ask me about**: React.js, Frontend Development, and API integrations
+- ✨ **Fun Fact**: Frontend developers are like magicians, crafting the look and feel of the web!
+
+---
+
+## 🌐 Let's Connect
+
+- 📫 Email: imdsatyam@gmail.com
+- 💼 [LinkedIn](https://linkedin.com/in/imdsatyam)
+- 💻 [GitHub](https://github.com/imdsatyam)
+- 🌍 [Portfolio](#)
+
+---
+
+## 💻 Tech Stack
+
+- **Languages**: JavaScript, Python, HTML5, CSS3
+- **Libraries/Frameworks**: React.js, Next.js, Bootstrap, TailwindCSS, Node.js, Express.js
+- **Tools**: Git, Jira, Netlify, Render
+- **Databases**: MongoDB, SQL
+
+---
+
+## 🏆 Experience
+
+### **Jr. React.js Developer** | *IdeaHelix, Gurugram, Haryana*  
+*Oct 2023 – Present*
+- Spearheaded the **Aging Options** project, empowering users to plan retirement effectively.
+- Contributed to modules like **Intake**, **Life Plan Organize (LPO)**, **Agent**, **Professionals**, **Paralegal**, and **Academy**.
+- Built key functionalities including **Annual Maintenance Agreement**, **Emergency Card**, and more.
+- Tech Stack: JavaScript, React.js, Next.js, Bootstrap, CSS, HTML, APIs, Git, Jira.
+
+### **Web Developer** | *Confederation of Global Innovators, Mohali, Punjab*  
+*Apr 2023 – Oct 2023*
+- Developed dynamic web apps, including **CGI Web Application**, **Shoplane Web Application**, and **Templatemo Web Application**.
+- Focused on product management, user engagement, and trend tracking.
+- Leveraged modern technologies like JavaScript, React.js, Next.js, Bootstrap, and TailwindCSS.
+
+---
+
+## 🌟 Featured Projects
+
+- **Portfolio**: Showcasing my skills, projects, and achievements.
+- **ReUnion**: Website emphasizing community engagement.
+- **Confederation of Global Innovators**: Web app focusing on collaboration and innovation.
+
+---
+
+## 🎓 Education
+
+- **B.Tech in Computer Science and Engineering**  
+  *Galgotias University, Greater Noida (2019-2023)*  
+  **CGPA**: 7.97/10
+
+- **Intermediate in Science (Math)**  
+  *R.L.S.Y. College, Bettiah, Bihar (2017-2019)*  
+  **Percentage**: 68%
+
+---
+
+## 📚 Research Contributions
+
+- **Implementing Blockchain-Based Security in EHR Using Ganache**  
+  Published in IEEE 2023 | DOI: [10.1109/IC3I59117.2023.10397841](https://doi.org/10.1109/IC3I59117.2023.10397841)
+
+- **Biometric Multimodel Authentication ATM**  
+  Published in IEEE 2022 | DOI: [10.17148/IARJSET.2022.8446](https://doi.org/10.17148/IARJSET.2022.8446)
+
+---
+
+## 🎖️ Certifications
+
+- **IBM Blockchain Essentials V2**  
+- **Google UX Design Foundations**  
+- **Cisco CCNA v7 & Cybersecurity Essentials**  
+- **Atlassian Git & Version Control**
+
+---
+
+## 📈 Competitive Coding
+
+- **CodeChef**: Actively participates in coding challenges.
+- **LeetCode**: Solves algorithms and coding problems.  
+- **HackerRank**: Engages in coding competitions.
+
+---
+
+## 🌱 What’s Next?
+
+I'm constantly exploring new technologies and challenges to further enhance my skills and contribute meaningfully to impactful projects. Let's collaborate and build something amazing together!
+
+---
+🔗 [Portfolio](#) | ✉️ [imdsatyam@gmail.com](mailto:imdsatyam@gmail.com) | 🌐 [LinkedIn](https://linkedin.com/in/imdsatyam)
