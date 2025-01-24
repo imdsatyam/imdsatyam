@@ -2,29 +2,29 @@
 
 ### 🚀 Frontend Developer | React.js Enthusiast
 
-I am a passionate frontend developer with over 1+ years of hands-on experience in building engaging, user-friendly, and dynamic web applications. I thrive on creating visually appealing and interactive UIs using modern web technologies. My goal is to bridge the gap between design and technology, delivering seamless user experiences.
+I am a passionate frontend developer with over 1.6+ years of hands-on experience in building engaging, user-friendly, and dynamic web applications. I thrive on creating visually appealing and interactive UIs using modern web technologies. My goal is to bridge the gap between design and technology, delivering seamless user experiences.
 
 ---
 
 ## 💫 Who Am I?  
 
-- 🎯 **Mission**: Craft intuitive interfaces that empower users and bring joy to their digital journeys.  
+- 🧭 **Mission**: Craft intuitive interfaces that empower users and bring joy to their digital journeys.  
 - 🎨 **Design Philosophy**: Functionality is key, but design is what steals the show.  
 - 📍 **Based In**: India 🌏  
-- 🌟 **Superpower**: Solving complex problems and finding creative solutions—one React component at a time!  
+- 🛠️ **Superpower**: Solving complex problems and finding creative solutions—one React component at a time!  
 
 ---
 
-## 💫 About Me
+## 🌍 My Journey So Far
 
-- 🔭 **Currently working on**: CRM-Portal project  
-- 🌱 **Learning**: Node.js & Express.jd to expand my backend skills  
-- 💡 **Ask me about**: React.js, Frontend Development, and API integrations  
+- 💼 **Currently working on**: CRM-Portal project  
+- 📚 **Learning**: Node.js & Express.js to expand my backend skills  
+- 🗣️ **Ask me about**: React.js, Frontend Development, and API integrations  
 - ✨ **Fun Fact**: Frontend developers are like magicians, crafting the look and feel of the web!  
 
 ---
 
-## 🌐 Let's Connect
+## 🌐 Let's Connect  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/imdsatyam)  
 [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)](https://github.com/imdsatyam)  
 📫 Email: [imdsatyam@gmail.com](mailto:imdsatyam@gmail.com)  
@@ -73,13 +73,13 @@ I am a passionate frontend developer with over 1+ years of hands-on experience i
 
 ## 🌟 Featured Projects
 
-- **Portfolio**: Showcasing my skills, projects, and achievements.  
-- **ReUnion**: Website emphasizing community engagement.  
-- **Confederation of Global Innovators**: Web app focusing on collaboration and innovation.  
+- 📂 **Portfolio**: Showcasing my skills, projects, and achievements.  
+- 🌐 **ReUnion**: Website emphasizing community engagement.  
+- 💻 **Confederation of Global Innovators**: Web app focusing on collaboration and innovation.  
 
 ---
 
-## 🌟 Fun Facts About Me  
+## 🎉 Fun Facts About Me  
 
 - 🕹 **Hobby**: Gaming enthusiast (ask me about my latest win in Call of Duty!).  
 - 🎶 **Music Lover**: Coding sessions powered by Lo-fi beats and epic soundtracks.  
