@@ -53,38 +53,11 @@ I am a passionate frontend developer with over 1+ years of hands-on experience i
 
 ---
 
-## 🏆 Experience
-
-### **Jr. React.js Developer** | *IdeaHelix, Gurugram, Haryana*  
-*Oct 2023 – Present*
-- Spearheaded the **Aging Options** project, empowering users to plan retirement effectively.
-- Contributed to modules like **Intake**, **Life Plan Organize (LPO)**, **Agent**, **Professionals**, **Paralegal**, and **Academy**.
-- Built key functionalities including **Annual Maintenance Agreement**, **Emergency Card**, and more.
-- Tech Stack: JavaScript, React.js, Next.js, Bootstrap, CSS, HTML, APIs, Git, Jira.
-
-### **Web Developer** | *Confederation of Global Innovators, Mohali, Punjab*  
-*Apr 2023 – Oct 2023*
-- Developed dynamic web apps, including **CGI Web Application**, **Shoplane Web Application**, and **Templatemo Web Application**.
-- Focused on product management, user engagement, and trend tracking.
-- Leveraged modern technologies like JavaScript, React.js, Next.js, Bootstrap, and TailwindCSS.
-
----
-
 ## 🌟 Featured Projects
 
 - **Portfolio**: Showcasing my skills, projects, and achievements.  
 - **ReUnion**: Website emphasizing community engagement.  
 - **Confederation of Global Innovators**: Web app focusing on collaboration and innovation.  
-
----
-
-## 📚 Research Contributions
-
-- **Implementing Blockchain-Based Security in EHR Using Ganache**  
-  Published in IEEE 2023 | DOI: [10.1109/IC3I59117.2023.10397841](https://doi.org/10.1109/IC3I59117.2023.10397841)
-
-- **Biometric Multimodel Authentication ATM**  
-  Published in IEEE 2022 | DOI: [10.17148/IARJSET.2022.8446](https://doi.org/10.17148/IARJSET.2022.8446)
 
 ---
 
